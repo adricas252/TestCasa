@@ -1,4 +1,5 @@
 public class Casa {
+
     // Atributo privado
     private String direccion;
     // Constructor
